@@ -1,0 +1,9 @@
+div {
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+    margin: 20px auto;
+    width: 30%;
+    border: 2px solid gray;
+    font-size: 3rem;
+}
